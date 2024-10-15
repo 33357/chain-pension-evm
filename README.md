@@ -4,6 +4,16 @@
 
 这是在区块链上运作的养老金项目
 
+## 资料
+
+[PPT](./cn.pdf)
+
+[前端](https://github.com/Dnevend/chain-pension)
+
+[合约](https://github.com/33357/chain-pension-contract)
+
+[演示网站](https://chain-pension.pages.dev)
+
 ## 流程
 
 1. 用户创立养老金账户，选择每月存入多少 USDT、BTC、ETH，存多少年。
@@ -49,13 +59,3 @@ USDT: https://app.spark.fi/savings
 ETH: https://stake.lido.fi/
 
 BTC: https://app.spark.fi/savings
-
-## 资料
-
-[PPT](./cn.pdf)
-
-[前端](https://github.com/Dnevend/chain-pension)
-
-[合约](https://github.com/33357/chain-pension-contract)
-
-[演示网站](https://chain-pension.pages.dev)
